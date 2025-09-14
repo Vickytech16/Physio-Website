@@ -19,7 +19,7 @@ const Navbar: React.FC = () => {
             <Image src="/logo.jpeg" alt="Logo" fill className="object-contain" />
           </div>
           <div className="flex flex-col">
-            <h1 className="text-2xl md:text-3xl font-bold text-gold">ELA'S</h1>
+            <h1 className="text-2xl md:text-3xl font-bold text-gold">ELA&apos;s</h1>
             <span className="text-lg md:text-xl font-semibold text-gold">Physio Care</span>
             <span className="text-sm md:text-base text-gold">Healing in Every Step</span>
           </div>
@@ -74,3 +74,4 @@ const Navbar: React.FC = () => {
 };
 
 export default Navbar;
+
